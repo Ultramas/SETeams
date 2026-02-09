@@ -6,3 +6,4 @@
 - Rainier Ring, [iRainy22](https://github.com/iRainy22)
 - Ryan Meline, [RyanMeline](https://github.com/RyanMeline)
 - Andy Liu, [aliu6](https://github.com/Ultramas)
+- Khai Luu, [khluu](https://github.com/khailuuhoang)
